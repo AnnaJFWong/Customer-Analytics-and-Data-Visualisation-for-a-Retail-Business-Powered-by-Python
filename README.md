@@ -18,15 +18,13 @@ This project goes beyond traditional Excel-based methods to unlock **meaningful 
 🧠 Why Python?
 <br/> With Python, **I automated the data processing and analysis** – making the entire workflow **repeatable with just a change of dataset**. This is especially powerful in FP&A, where regular reporting cycles can benefit from reusable, efficient scripts.
 
-Python also enabled me to perform advanced analytics and build end-to-end visualisations within a single platform – demonstrating how **tech-enabled FP&A** can drive faster, data-informed decisions and support commercial strategy. 
+Python also enabled me to perform advanced analytics and build end-to-end visualisations within a single platform – demonstrating how **tech-enabled FP&A** can uncover deeper insights, improve efficiency, and better support strategic finance decisions.
 
-🔍 **Explore the full project and insights** here: <Link>
+🔍 **Explore the full project and insights** here:  https://lnkd.in/gZu9c8wF
 <br/> 💻 **Full Python code (Jupyter Notebook) available on my GitHub.**
 <br/> Tools used: Python, Jupyter Notebook
 <br/> Library used: Pandas, Matplotlib 
 <br/> (Seaborn, NumPy, and scikit-learn are part of my broader toolkit, though not used in this project)
-
-📌 In today’s evolving FP&A landscape, technical skills like Python are becoming increasingly valuable— for uncovering deeper insights, driving efficiency, and supporting strategic finance decisions.
 
 🔄 **Looking Ahead:**
 <br/> After performing Market Basket Analysis (MBA), machine learning techniques (like association rule learning using Python) can take insights even further—automating the discovery of frequently purchased product sets and supporting more intelligent business strategies.
