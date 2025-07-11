@@ -30,8 +30,10 @@ Python also enabled me to perform advanced analytics and build end-to-end visual
 
 🔄 **Looking Ahead:**
 <br/> After performing Market Basket Analysis (MBA), machine learning techniques (like association rule learning using Python) can take insights even further—automating the discovery of frequently purchased product sets and supporting more intelligent business strategies.
-<br/> ✨ **Can’t wait to dive deeper into Machine Learning next!**
 
-#PythonForFinance #CustomerAnalytics #RetailAnalytics #BusinessStrategy #MarketBasketAnalysis #RFM #Python #DataVisualisation
+✨ **Excited to dive deeper into Machine Learning next—especially predictive analytics—to uncover forward-looking insights and deliver even greater strategic impact!**
+
+#PythonForFinance #CustomerAnalytics #RetailAnalytics #BusinessStrategy 
+<br/> #MarketBasketAnalysis #RFM #Python #DataVisualisation
 <br/> #FinanceAnalytics #DataAnalytics #FP&A #FPNA #Finance #Accounting 
 
